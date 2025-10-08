@@ -10,7 +10,7 @@ I'm currently learning and working with:
 - ⚙️ **Backend:** Java, PHP.
 - ⚛️ **Frameworks/Libraries:** Vite.
 - ⚡ **Runtimes:** Node.js, Bun.
-- 🗃️ **Databases:** MySQL, MongoDB.
+- 🗃️ **Databases:** SQL, MongoDB.
 - 🌲 **Version control:** Git, GitHub, GitLab.
 - 🧰 **Other tools:** VS Code.
 ---
