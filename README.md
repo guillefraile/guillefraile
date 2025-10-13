@@ -12,7 +12,7 @@ I'm currently learning and working with:
 - ⚡ **Runtimes:** Node.js, Bun.
 - 🗃️ **Databases:** SQL, MongoDB.
 - 🌲 **Version control:** Git, GitHub, GitLab.
-- 🧰 **Other tools:** VS Code.
+- 🧰 **Other tools:** VS Code, Figma.
 ---
 
 ## 📂 Featured projects
