@@ -8,7 +8,7 @@ Here I will share my projects 📂, experiments 🧪 and my progress 🚀 as I l
 I'm currently learning and working with:
 - 🎨 **Frontend:** HTML, CSS, JavaScript, TypeScript.
 - ⚙️ **Backend:** Java, PHP.
-- ⚛️ **Frameworks/Libraries:** Tailwind, Vite.
+- ⚛️ **Frameworks/Libraries/Tools:** Tailwind, Vite.
 - ⚡ **Runtimes:** Node.js, Bun.
 - 🗃️ **Databases:** SQL, MongoDB.
 - 🌲 **Version control:** Git, GitHub, GitLab.
